@@ -95,8 +95,8 @@ nav ul li a:hover::after{
 }
 /*----------about----------*/
 #about{
-    padding: 80px 0;
-    color:	#e13b9d;
+    padding: 90px 25px;
+    color:#ae086a;
 }
 .row{
     display: flex;
