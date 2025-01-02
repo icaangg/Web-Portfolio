@@ -207,7 +207,7 @@ nav ul li a:hover::after{
     font-weight: 500;
     margin-bottom: 20px;
 }
-.layer a{
+.layer a button{
     margin-top: 20px;
     color: #ca7f68;
     text-decoration: none;
